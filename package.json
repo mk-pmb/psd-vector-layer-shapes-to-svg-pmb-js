@@ -1,0 +1,39 @@
+{ "name": "psd-vector-layer-shapes-to-svg-pmb",
+  "version": "0.1.0",
+  "description": "Convert PSD vector path instructions to SVG shapes.",
+  "keywords": [
+    "path",
+    "psd",
+    "shape",
+    "svg",
+    "vector"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/psd-vector-layer-shapes-to-svg-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/psd-vector-layer-shapes-to-svg-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/psd-vector-layer-shapes-to-svg-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+  "scripts": { "test": "elp && nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+  "eslintConfig": { "extends": "nodejs-pmb" },
+
+  "dependencies": {},
+  "devDependencies": {
+    "eslint-config-nodejs-pmb": "^0.3.6",
+    "eslint-plugin-json-light-pmb": "^1.0.7",
+    "eslint-plugin-n": "^17.10.2",
+    "eslint-pretty-pmb": "^1.0.5",
+    "nodemjs": "^0.1.15"
+  },
+
+
+  "engines": { "npm": ">=7.0.0", "node": ">=16.0.0" }
+}
