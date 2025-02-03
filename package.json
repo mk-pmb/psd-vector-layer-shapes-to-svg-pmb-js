@@ -31,7 +31,9 @@
     "eslint-plugin-json-light-pmb": "^1.0.7",
     "eslint-plugin-n": "^17.10.2",
     "eslint-pretty-pmb": "^1.0.5",
-    "nodemjs": "^0.1.15"
+    "nodemjs": "^0.1.15",
+    "p-fatal": "^0.1.5",
+    "psd-pmb": "^0.1.1"
   },
 
 
