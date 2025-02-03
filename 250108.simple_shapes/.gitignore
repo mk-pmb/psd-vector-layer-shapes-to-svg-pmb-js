@@ -1,0 +1,12 @@
+
+# Temporary files that should be committed only in gzip-ed form:
+/*.psd
+
+
+
+# Auto-generated files:
+/tmp.*
+
+
+
+# Unsorted stuff (this section should be empty):
