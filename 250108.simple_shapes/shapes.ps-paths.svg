@@ -1,0 +1,21 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="95px" height="91px">
+<path fill-rule="evenodd"  stroke="rgb(255, 0, 0)" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+ d="M9.000,3.000 L33.000,3.000 L33.000,42.1000 L9.000,42.1000 L9.000,3.000 Z"/>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="10px" x="12px" y="29.16px"> <tspan dy="-1.2em"><tspan font-size="10px" font-family="Arial" fill="#FF0000">rect</tspan><tspan x="12px" dy="1.2em">foo&#32;bar</tspan> </tspan>
+</text>
+<path fill-rule="evenodd"  fill="rgb(128, 128, 128)"
+ d="M-0.000,34.000 L2.000,34.000 L2.000,66.000 L-0.000,66.000 L-0.000,34.000 Z"/>
+<path fill-rule="evenodd"  stroke="rgb(0, 128, 0)" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+ d="M23.500,54.000 C31.508,54.000 38.000,60.492 38.000,68.500 C38.000,76.508 31.508,83.000 23.500,83.000 C15.492,83.000 9.000,76.508 9.000,68.500 C9.000,60.492 15.492,54.000 23.500,54.000 Z"/>
+<path fill-rule="evenodd"  stroke="rgb(0, 128, 255)" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+ d="M67.1000,2.000 C79.046,2.000 88.000,7.149 88.000,13.500 C88.000,19.851 79.046,24.1000 67.1000,24.1000 C56.954,24.1000 47.1000,19.851 47.1000,13.500 C47.1000,7.149 56.954,2.000 67.1000,2.000 Z"/>
+<path fill-rule="evenodd"  stroke="rgb(128, 128, 0)" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+ d="M71.000,41.000 L86.588,67.1000 L55.412,67.1000 L71.000,41.000 Z"/>
+<path fill-rule="evenodd"  stroke="rgb(255, 128, 0)" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="rgb(255, 240, 0)"
+ d="M47.905,85.050 C50.697,79.057 54.930,75.728 58.975,75.127 C67.479,73.864 72.796,87.970 80.951,87.045 C85.353,86.545 89.021,81.986 92.095,74.886 "/>
+<path fill-rule="evenodd"  fill="rgb(0, 64, 128)"
+ d="M55.849,33.000 L57.068,36.757 L61.1000,37.686 L59.375,41.000 L61.1000,44.314 L57.068,45.243 L55.849,48.1000 L51.500,47.000 L47.151,48.1000 L45.932,45.243 L40.1000,44.314 L43.625,41.000 L40.1000,37.686 L45.932,36.757 L47.151,33.000 L51.500,35.000 L55.849,33.000 Z"/>
+</svg>
