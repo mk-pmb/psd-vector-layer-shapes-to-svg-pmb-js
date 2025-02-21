@@ -1,0 +1,657 @@
+--- tmp.no_compat.tree.json
++++ tmp.max_compat.tree.json
+@@ -1,600 +1,600 @@
+ { "document": {
+     "width": 100,
+     "height": 100,
+     "resources": {
+       "layerComps": [],
+       "resolutionInfo": {
+         "h_res": 72,
+         "h_res_unit": 1,
+         "width_unit": 2,
+         "v_res": 72,
+         "v_res_unit": 1,
+         "height_unit": 2
+       },
+       "guides": [
+         { "location": "29495882.4", "direction": "horizontal" },
+         { "location": "35651584.0", "direction": "vertical" }
+       ],
+       "slices": []
+     }
+   },
+   "children": [
+     { "type": "group",
+       "visible": true,
+       "opacity": 1,
+       "blendingMode": "normal",
+       "name": "text_encoding",
+       "left": 90,
+       "right": 792,
+       "top": 43,
+       "bottom": 55,
+       "height": 12,
+       "width": 702,
+       "children": [
+         { "type": "group",
+           "visible": true,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": ".\\\\punc\\tu&auml;tion|chall/enge//.",
+           "left": 90,
+           "right": 792,
+           "top": 43,
+           "bottom": 55,
+           "height": 12,
+           "width": 702,
+           "children": [
+             { "type": "layer",
+               "visible": true,
+               "opacity": 1,
+               "blendingMode": "normal",
+               "name": " start.!\"#$%&'(.)*+,-./:;<=>?@.[\\]^_`.{|}~¡¢£¤¥¦§¨.©ª«¬®¯°.±²³´",
+               "left": 90,
+               "right": 792,
+               "top": 43,
+               "bottom": 55,
+               "height": 12,
+               "width": 702,
+               "mask": {},
+               "text": {
+                 "value": " start.!\"#$%&'(.)*+,-./:;<=>?@.[\\]^_`.{|}~¡¢£¤¥¦§¨.©ª«¬®¯°.±²³´µ¶·¸.¹º»¼½¾¿÷ø.‖‗‘.’‚‛“”„‟†.‡•‣․‥…‧‰.‱′″‴‵‶‷‸.‹›※‼‽‾‿⁀.⁁⁂⁃⁄⁅⁆⁇⁈.⁉⁊⁋⁌⁍⁎⁏⁐.⁑⁒⁓⁔⁕⁖⁗⁘.⁙⁚⁛⁜⁝⁞.end",
+                 "font": {
+                   "lengthArray": [
+                     93,
+                     3,
+                     1,
+                     1,
+                     2,
+                     1,
+                     3,
+                     4,
+                     3,
+                     1,
+                     3,
+                     2,
+                     1,
+                     3,
+                     1,
+                     4,
+                     1,
+                     8,
+                     1,
+                     8,
+                     1,
+                     5,
+                     5
+                   ],
+                   "styles": [
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal"
+                   ],
+                   "weights": [
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal",
+                     "normal"
+                   ],
+                   "names": [
+                     "ArialMT",
+                     "AdobeInvisFont",
+                     "MyriadPro-Regular"
+                   ],
+                   "sizes": [
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10,
+                     10
+                   ],
+                   "colors": [
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ],
+                     [
+                       221,
+                       221,
+                       221,
+                       255
+                     ]
+                   ],
+                   "alignment": [
+                     "left"
+                   ],
+                   "textDecoration": [
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none",
+                     "none"
+                   ],
+                   "leading": [
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12,
+                     12
+                   ]
+                 },
+                 "left": 0,
+                 "top": 0,
+                 "right": 0,
+                 "bottom": 0,
+                 "transform": {
+                   "xx": 1,
+                   "xy": 0,
+                   "yx": 0,
+                   "yy": 1,
+                   "tx": 87.04504504504504,
+                   "ty": 52.056008879183935
+                 }
+               },
+               "image": {}
+             }
+           ]
+         }
+       ]
+     },
+     { "type": "layer",
+       "visible": true,
+       "opacity": 1,
+       "blendingMode": "normal",
+       "name": "empty",
+       "left": 0,
+       "right": 0,
+       "top": 0,
+       "bottom": 0,
+       "height": 0,
+       "width": 0,
+       "mask": {},
+       "image": {}
+     },
+     { "type": "group",
+       "visible": true,
+       "opacity": 1,
+       "blendingMode": "normal",
+       "name": "shapes",
+-      "left": 15,
+-      "right": 32,
+-      "top": 15,
+-      "bottom": 46,
+-      "height": 31,
+-      "width": 17,
++      "left": 1,
++      "right": 98,
++      "top": 8,
++      "bottom": 98,
++      "height": 90,
++      "width": 97,
+       "children": [
+         { "type": "layer",
+           "visible": true,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": "8star",
+-          "left": 0,
+-          "right": 0,
+-          "top": 0,
+-          "bottom": 0,
+-          "height": 0,
+-          "width": 0,
++          "left": 42,
++          "right": 66,
++          "top": 40,
++          "bottom": 58,
++          "height": 18,
++          "width": 24,
+           "mask": {},
+           "image": {}
+         },
+         { "type": "layer",
+           "visible": true,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": "bezier",
+-          "left": 0,
+-          "right": 0,
+-          "top": 0,
+-          "bottom": 0,
+-          "height": 0,
+-          "width": 0,
++          "left": 48,
++          "right": 98,
++          "top": 80,
++          "bottom": 98,
++          "height": 18,
++          "width": 50,
+           "mask": {},
+           "image": {}
+         },
+         { "type": "layer",
+           "visible": true,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": "triangle",
+-          "left": 0,
+-          "right": 0,
+-          "top": 0,
+-          "bottom": 0,
+-          "height": 0,
+-          "width": 0,
++          "left": 55,
++          "right": 93,
++          "top": 46,
++          "bottom": 78,
++          "height": 32,
++          "width": 38,
+           "mask": {},
+           "image": {}
+         },
+         { "type": "layer",
+           "visible": true,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": "ellipse",
+-          "left": 0,
+-          "right": 0,
+-          "top": 0,
+-          "bottom": 0,
+-          "height": 0,
+-          "width": 0,
++          "left": 49,
++          "right": 93,
++          "top": 8,
++          "bottom": 35,
++          "height": 27,
++          "width": 44,
+           "mask": {},
+           "image": {}
+         },
+         { "type": "layer",
+           "visible": false,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": "hidden_circle",
+-          "left": 0,
+-          "right": 0,
+-          "top": 0,
+-          "bottom": 0,
+-          "height": 0,
+-          "width": 0,
++          "left": 53,
++          "right": 86,
++          "top": 40,
++          "bottom": 73,
++          "height": 33,
++          "width": 33,
+           "mask": {},
+           "image": {}
+         },
+         { "type": "layer",
+           "visible": true,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": "circle",
+-          "left": 0,
+-          "right": 0,
+-          "top": 0,
+-          "bottom": 0,
+-          "height": 0,
+-          "width": 0,
++          "left": 10,
++          "right": 43,
++          "top": 60,
++          "bottom": 93,
++          "height": 33,
++          "width": 33,
+           "mask": {},
+           "image": {}
+         },
+         { "type": "layer",
+           "visible": true,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": "line",
+-          "left": 0,
+-          "right": 0,
+-          "top": 0,
+-          "bottom": 0,
+-          "height": 0,
+-          "width": 0,
++          "left": 1,
++          "right": 7,
++          "top": 41,
++          "bottom": 76,
++          "height": 35,
++          "width": 6,
+           "mask": {},
+           "image": {}
+         },
+         { "type": "layer",
+           "visible": true,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": "rect foo bar",
+           "left": 15,
+           "right": 32,
+           "top": 15,
+           "bottom": 46,
+           "height": 31,
+           "width": 17,
+           "mask": {},
+           "text": {
+             "value": "rect\rfoo bar",
+             "font": {
+               "lengthArray": [
+                 12
+               ],
+               "styles": [
+                 "normal"
+               ],
+               "weights": [
+                 "normal"
+               ],
+               "names": [
+                 "ArialMT",
+                 "AdobeInvisFont",
+                 "MyriadPro-Regular"
+               ],
+               "sizes": [
+                 10
+               ],
+               "colors": [
+                 [
+                   255,
+                   0,
+                   0,
+                   255
+                 ]
+               ],
+               "alignment": [
+                 "left",
+                 "left"
+               ],
+               "textDecoration": [
+                 "none"
+               ],
+               "leading": [
+                 0.01
+               ]
+             },
+             "left": 0,
+             "top": 0,
+             "right": 0,
+             "bottom": 0,
+             "transform": {
+               "xx": 1,
+               "xy": 0,
+               "yx": 0,
+               "yy": 1,
+               "tx": 15,
+               "ty": 15.000001907348633
+             }
+           },
+           "image": {}
+         },
+         { "type": "layer",
+           "visible": true,
+           "opacity": 1,
+           "blendingMode": "normal",
+           "name": "rectangle",
+-          "left": 0,
+-          "right": 0,
+-          "top": 0,
+-          "bottom": 0,
+-          "height": 0,
+-          "width": 0,
++          "left": 10,
++          "right": 38,
++          "top": 9,
++          "bottom": 53,
++          "height": 44,
++          "width": 28,
+           "mask": {},
+           "image": {}
+         }
+       ]
+     },
+     { "type": "layer",
+       "visible": true,
+       "opacity": 1,
+       "blendingMode": "normal",
+       "name": "bg",
+       "left": 0,
+       "right": 100,
+       "top": 0,
+       "bottom": 100,
+       "height": 100,
+       "width": 100,
+       "mask": {},
+       "image": {}
+     }
+   ]
+ }
