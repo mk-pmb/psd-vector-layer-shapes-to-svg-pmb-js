@@ -10,6 +10,17 @@ Convert PSD vector path instructions to SVG shapes.
 
 
 
+⚠ Maybe obsolete
+----------------
+
+This package may have become obsolete before I even got it to work:
+Upstream PSD.js has been revived and [they now have pathToSvg][psd-pr-319].
+
+  [psd-pr-319]: https://github.com/meltingice/psd.js/pull/319
+
+
+
+
 API
 ---
 
